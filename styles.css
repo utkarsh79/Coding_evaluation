@@ -1,0 +1,57 @@
+#s_heading {
+  color: rgb(228, 74, 74);
+  text-align: center;
+}
+#b_heading {
+  color: black;
+  text-align: center;
+}
+.image {
+  margin: 20px 50px;
+}
+.text-img {
+  text-align: justify;
+  float: left;
+  width: 300px;
+  margin: 0px 51px;
+  line-height: 0%;
+}
+.img-heading {
+  color: rgb(83, 82, 82);
+}
+.m-heading {
+  background-color: rgb(231, 97, 97);
+  color: white;
+  margin: auto;
+  clear: both;
+  height: 30px;
+  width: 140px;
+  text-align: center;
+}
+.s-heading {
+  color: rgb(228, 74, 74);
+  text-align: center;
+  margin-top: 70px;
+}
+.s-b-heading {
+  text-align: center;
+}
+#d-service {
+  text-align: center;
+  margin: 0 200px;
+  color: rgb(83, 82, 82);
+}
+.s1 {
+  float: left;
+  margin: 10px 100px 150px 0px;
+}
+.s2 {
+  float: left;
+
+  margin: 10px 100px 150px 0px;
+}
+.s3 {
+  float: left;
+
+  margin: 10px 100px 150px 0px;
+}
